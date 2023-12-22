@@ -1,6 +1,8 @@
 # Large Outdoor Fire Dynamics
-This is a Python code for the physics-based simulation of fire spread between discretely distributed 3D fuel objects in outdoor fires. 
-This program has been tested with Python 3.10.4 and NumPy 1.22.3. 
+This is an accompanying Python code of the following book:
+Himoto K. "Large outdoor fire dynamics", CRC Press, 2022.
+https://x.gd/WCS1v
+The code implements a physics-based simulation of fire spread between discretely distributed 3D fuel objects in outdoor fires. The code has been tested with Python 3.10.4 and NumPy 1.22.3. 
 
 # Setup
 The code set contains a folder (data), nine Python files (cgprm.py, fire.py, g.py, gprm.py, init.py, main.py, ndat.py, rndm.py, and sprd.py ), and two bat files (exec.bat and setup.bat).
