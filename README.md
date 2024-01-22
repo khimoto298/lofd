@@ -3,6 +3,8 @@ This is an accompanying Python code of the following book:
 
 Himoto K. "Large outdoor fire dynamics", CRC Press, 2022.
 
+![image](https://github.com/khimoto298/lofd/assets/108455539/ceb16f3b-4579-48ad-83bf-4085fe2e9fc5)
+
 [https://x.gd/WCS1v](https://doi.org/10.1201/9781003096689)
 
 The code implements a physics-based simulation of fire spread between discretely distributed 3D fuel objects in outdoor fires. The code has been tested with Python 3.10.4 and NumPy 1.22.3. 
